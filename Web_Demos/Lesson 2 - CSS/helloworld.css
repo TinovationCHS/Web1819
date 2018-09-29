@@ -1,0 +1,12 @@
+div {
+    background-color: aqua;
+}
+
+#div_id {
+    background-color: beige;
+    text-align: center;
+}
+
+.color_class {
+    background-color: brown;
+}
